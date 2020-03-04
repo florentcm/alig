@@ -1,14 +1,8 @@
-# 🏞 Nuxt & Netlify CMS Starter
+# 🐊 Alig - Another Lorem Ipsum Generator
 
-A lot of the starter repos for **Nuxt x Netlify CMS** use a module like `nuxtent` or `nuxtdown` to manage flat file content. This project is meant to be a solution for those who don't mind doing a little more configuration to not have to rely on these dependencies.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f01e8196-a5e0-4c01-b317-6b3ad1861b72/deploy-status)](https://app.netlify.com/sites/alig/deploys)
 
 ## 🎉 Getting Started
-
-The quickest way to get started is with Netlify's hyper-convenient **one-click Deploy To Netlify**, which will automatically create an instance of this project on your GitHub account and deploy it instantly to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/xdesro/nuxt-netlify-cms-starter)
-
-Otherwise, you can follow these steps!
 
 1. 👯‍♂️ Clone the repository locally and cd into the directory.
 
@@ -72,4 +66,4 @@ or directly set it up by following [these](https://docs.netlify.com/large-media/
 
 ## 💁‍♀️ Questions? Concerns?
 
-Feel free to reach out [on Twitter](https://twitter.com/xdesro). Friendly feedback and advice is always welcome. Contributions doubly so.
+
